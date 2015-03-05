@@ -26,7 +26,7 @@ For more help see the Apache Camel documentation
 
     [http://camel.apache.org/](http://camel.apache.org/)
 
-This project has been built using maven.
+Create this project from command line.
 ```bash
 mvn archetype:generate \
   -DarchetypeGroupId=org.apache.camel.archetypes \
@@ -50,3 +50,6 @@ Camel Router in [Spring DSL](http://camel.apache.org/spring.html), [applicationC
         </route>
     </camelContext>
 ```
+
+To deploy on [Apache Karaf](http://karaf.apache.org/), just copy applicationContext.xml to deploy directory.
+
