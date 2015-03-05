@@ -1,6 +1,6 @@
 Camel Router WAR Project
 ========================
-[![Build Status](https://travis-ci.org/ualbertalib/my-camel-route.svg?branch=dev)](https://travis-ci.org/ualbertalib/my-camel-route)
+[![Build Status](https://travis-ci.org/ualbertalib/my-camel-route.svg?branch=master)](https://travis-ci.org/ualbertalib/my-camel-route)
 
 This project includes a sample route as as a WAR.
 You can build the WAR by running
